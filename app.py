@@ -1,3 +1,8 @@
+# https://fifa-choropleth.onrender.com
+# 127.0.0.1:8080
+
+#I tried to get it to host using jupyter notebooks but it didnt work.
+#there are 2 python files they both contain the same code
 import os
 import pandas as pd
 import plotly.express as px
